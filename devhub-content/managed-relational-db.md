@@ -1,10 +1,10 @@
 ---
-title: Cloud Based Compute Capacity
+title: Relational Database Service
 description: This resource is a Service Definition of Cloud Compute within BC Gov and concisely describes the key elements of the service for current and prospective users of the service.
 author: sheaphillips
 ---
 
-# Cloud Hosted Managed NoSQL Database Service    
+# Cloud Hosted Managed Relational Database Service    
 
 Based heavily on [Service Definition Questions and Checklist](https://its.ucsc.edu/itsm/checklist.html) from UC Santa Cruz.
 

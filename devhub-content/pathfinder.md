@@ -2,6 +2,7 @@
 title: Cloud Pathfinder
 description: Cloud Pathfinder is an OCIO initiative to explore cloud services to inform strategy, policy, and related activities within BC Gov.    
 author: sheaphillips
+resourceType: Documentation
 ---
 
 # What is Pathfinder 

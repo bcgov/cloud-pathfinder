@@ -1,5 +1,5 @@
 ---
-title: Cloud Based Compute Capacity
+title: Cloud Based Compute
 description: This resource is a Service Definition of Cloud Compute within BC Gov and concisely describes the key elements of the service for current and prospective users of the service.
 author: sheaphillips
 ---
