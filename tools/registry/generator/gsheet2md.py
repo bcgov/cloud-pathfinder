@@ -4,6 +4,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from jinja2 import Environment, PackageLoader, select_autoescape
 import argparse
+from slugify import slugify
 
 
 def processSheet(output_path) -> None:
@@ -22,7 +23,8 @@ def processSheet(output_path) -> None:
 	tools = sheet.get_all_records()
 	template = env.get_template('tool.md.jinja2')
 	for tool in tools:
-		template.stream(tool=tool).dump(f"{output_path}/{tool['Name']}.md")
+		name_slug = slugify(tool['Name'], to_lower=True)
+		template.stream(tool=tool).dump(f"{output_path}/{name_slug}.md")
 
 
 def init_argparse() -> argparse.ArgumentParser:
