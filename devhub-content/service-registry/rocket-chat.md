@@ -1,10 +1,11 @@
 ---
-title: Overview of Rocket.Chat (Chat)
+title: Rocket.Chat (Chat)
 description: This is an overview of the tool Rocket.Chat, and its current status  within BC Gov.
-author: sheaphillips
+image: https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png
 ---
 
-# Overview of Rocket.Chat (Chat)
+#
+Rocket.Chat (Chat)
 
 ## Description
 Rocket.Chat is a Web Chat Server, developed in JavaScript, using the Meteor full stack framework. It is a great solution for communities and companies wanting to privately host their own chat service or for developers looking forward to build and evolve their own chat platforms.

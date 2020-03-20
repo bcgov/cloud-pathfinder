@@ -1,0 +1,3 @@
+# ignore secret
+client_secret.json
+dist
