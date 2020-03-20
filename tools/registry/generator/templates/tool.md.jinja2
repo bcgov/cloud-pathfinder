@@ -1,10 +1,12 @@
 ---
 title: {{ tool.Name }} ({{ tool.Type }})
 description: This is an overview of the tool {{ tool.Name }}, and its current status  within BC Gov.
+{% if tool['Image URL']|length -%}
+image: {{ tool['Image URL'] }}
+{%- endif %}
 ---
 
-#
-{{ tool.Name }} ({{ tool.Type }})
+# {{ tool.Name }} ({{ tool.Type }})
 
 ## Description
 {{ tool.Description }}
