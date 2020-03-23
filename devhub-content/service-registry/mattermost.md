@@ -4,8 +4,7 @@ description: This is an overview of the tool Mattermost, and its current status 
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mattermost_logo_horizontal.svg/800px-Mattermost_logo_horizontal.svg.png
 ---
 
-#
-Mattermost (Chat)
+# Mattermost (Chat)
 
 ## Description
 Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack.

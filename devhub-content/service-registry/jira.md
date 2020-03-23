@@ -4,8 +4,7 @@ description: This is an overview of the tool Jira, and its current status  withi
 
 ---
 
-#
-Jira (Task Management)
+# Jira (Task Management)
 
 ## Description
 Measure Performance, Report Effectively, & Get Insights. Start a Trial Today. Powerful Project Management Software For Teams: Any Size, Anywhere. Integrates w/ Other Tools. Trusted by 65k+ Teams. For Teams of All Sizes. Agile Functionality.

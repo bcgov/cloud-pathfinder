@@ -4,8 +4,7 @@ description: This is an overview of the tool Trello, and its current status  wit
 
 ---
 
-#
-Trello (Task Management)
+# Trello (Task Management)
 
 ## Description
 Trello lets you work more collaboratively and get more done. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.

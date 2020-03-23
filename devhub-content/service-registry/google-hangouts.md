@@ -4,8 +4,7 @@ description: This is an overview of the tool Google Hangouts, and its current st
 
 ---
 
-#
-Google Hangouts (Conference)
+# Google Hangouts (Conference)
 
 ## Description
 Meet face to face with coworkers and customers. Learn More! Save time. Collaborate. Less hassle. Cloud solution. Support 24/7. 99.99% Uptime. Types: Free Trial, Basic Subscription, Business Subscription, Enterprise Subscription.

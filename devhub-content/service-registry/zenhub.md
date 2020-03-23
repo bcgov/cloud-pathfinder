@@ -4,8 +4,7 @@ description: This is an overview of the tool ZenHub, and its current status  wit
 
 ---
 
-#
-ZenHub (Task Management)
+# ZenHub (Task Management)
 
 ## Description
 ZenHub is the leading project management platform built for software development teams using GitHub. Tightly integrated within GitHub, ZenHub lets users easily move issues through pipelines on a Kanban board, organize complex projects into Epics, and customize workflows to meet individual team's needs with Workspaces.
