@@ -36,7 +36,7 @@ def processSheet(output_path) -> None:
 	registry_data = {"pages": generated_page_paths}
 	registry_file_basename = 'collaboration-tools.json'
 	registry_template = env.get_template(f"{registry_file_basename}.jinja2")
-	registry_template.stream(registry_contents=registry_data).dump(f"dist/{registry_file_basename}")
+	registry_template.stream(registry_contents=registry_data).dump(f"{output_path}/{registry_file_basename}")
 
 
 def init_argparse() -> argparse.ArgumentParser:

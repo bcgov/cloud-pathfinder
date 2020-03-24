@@ -1,8 +1,10 @@
 ---
-title: Collaboration Tools 
+title: Collaboration Tools DRAFT
 description: An overview of some online collaboration tools for BC Government teams working remotely and collaborating within and across organizations.
 resourceType: Documentation
 ---
+
+>**NOTE**: This content is DRAFT and under active development and review and is likely to change.  Please check back frequently for the latest updates. 
 
 # Introduction
 

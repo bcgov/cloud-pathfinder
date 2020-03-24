@@ -11,7 +11,7 @@
 					"repo": "cloud-pathfinder-technology-and-ux",
 					"files": [
 						"devhub-content/service-registry/collaboration-tools-intro.md",
-					  	{%- for page in registry_contents['pages'] %}
+					  	{% for page in registry_contents['pages'] -%}
         					"{{ page }}"{{ "," if not loop.last }}
 					  	{% endfor -%}
 					]
