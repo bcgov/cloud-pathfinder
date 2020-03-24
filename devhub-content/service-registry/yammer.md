@@ -1,5 +1,5 @@
 ---
-title: Yammer (Forum) :white_check_mark:
+title: Yammer (Forum)
 description: This is an overview of the tool Yammer, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_Office_Yammer_%282018%E2%80%93present%29.svg
 ---

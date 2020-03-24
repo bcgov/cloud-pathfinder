@@ -1,5 +1,5 @@
 ---
-title: Gitter (Chat) :white_check_mark:
+title: Gitter (Chat)
 description: This is an overview of the tool Gitter, and its current status  within BC Gov.
 
 ---

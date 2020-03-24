@@ -1,5 +1,5 @@
 ---
-title: ZenHub (Task Management) :white_check_mark:
+title: ZenHub (Task Management)
 description: This is an overview of the tool ZenHub, and its current status  within BC Gov.
 
 ---

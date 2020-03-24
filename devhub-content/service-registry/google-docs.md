@@ -1,5 +1,5 @@
 ---
-title: Google Docs (Collaboration) :white_check_mark:
+title: Google Docs (Collaboration)
 description: This is an overview of the tool Google Docs, and its current status  within BC Gov.
 
 ---

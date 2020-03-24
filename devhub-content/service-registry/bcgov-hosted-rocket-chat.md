@@ -1,5 +1,5 @@
 ---
-title: BCGov Hosted Rocket.Chat (Chat) :white_check_mark:
+title: BCGov Hosted Rocket.Chat (Chat)
 description: This is an overview of the tool BCGov Hosted Rocket.Chat, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png
 ---

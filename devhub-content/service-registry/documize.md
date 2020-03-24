@@ -1,5 +1,5 @@
 ---
-title: Documize (Collaboration) :white_check_mark:
+title: Documize (Collaboration)
 description: This is an overview of the tool Documize, and its current status  within BC Gov.
 
 ---

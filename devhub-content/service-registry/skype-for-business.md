@@ -1,5 +1,5 @@
 ---
-title: Skype for Business (Conference) :white_check_mark:
+title: Skype for Business (Conference)
 description: This is an overview of the tool Skype for Business, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Skype_for_Business_logo.png
 ---

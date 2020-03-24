@@ -1,5 +1,5 @@
 ---
-title: Asana (Task Management) :white_check_mark:
+title: Asana (Task Management)
 description: This is an overview of the tool Asana, and its current status  within BC Gov.
 
 ---

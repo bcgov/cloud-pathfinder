@@ -1,5 +1,5 @@
 ---
-title: Slack (Chat) :white_check_mark:
+title: Slack (Chat)
 description: This is an overview of the tool Slack, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/498px-Slack_Logo_2019.svg.png
 ---

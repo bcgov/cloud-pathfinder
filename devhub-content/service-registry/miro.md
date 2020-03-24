@@ -1,5 +1,5 @@
 ---
-title: Miro (Collaboration) :white_check_mark:
+title: Miro (Collaboration)
 description: This is an overview of the tool Miro, and its current status  within BC Gov.
 
 ---

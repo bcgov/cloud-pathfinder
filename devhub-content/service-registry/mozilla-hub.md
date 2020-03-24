@@ -1,5 +1,5 @@
 ---
-title: Mozilla Hub (Collaboration) :white_check_mark:
+title: Mozilla Hub (Collaboration)
 description: This is an overview of the tool Mozilla Hub, and its current status  within BC Gov.
 
 ---

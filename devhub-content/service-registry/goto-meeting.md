@@ -1,5 +1,5 @@
 ---
-title: GoTo Meeting (Conference) :white_check_mark:
+title: GoTo Meeting (Conference)
 description: This is an overview of the tool GoTo Meeting, and its current status  within BC Gov.
 
 ---

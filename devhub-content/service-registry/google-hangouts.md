@@ -1,5 +1,5 @@
 ---
-title: Google Hangouts (Conference) :white_check_mark:
+title: Google Hangouts (Conference)
 description: This is an overview of the tool Google Hangouts, and its current status  within BC Gov.
 
 ---

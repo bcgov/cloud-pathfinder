@@ -1,5 +1,5 @@
 ---
-title: Ryver (Chat) :white_check_mark:
+title: Ryver (Chat)
 description: This is an overview of the tool Ryver, and its current status  within BC Gov.
 
 ---

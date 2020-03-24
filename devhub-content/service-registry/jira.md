@@ -1,5 +1,5 @@
 ---
-title: Jira (Task Management) :white_check_mark:
+title: Jira (Task Management)
 description: This is an overview of the tool Jira, and its current status  within BC Gov.
 
 ---

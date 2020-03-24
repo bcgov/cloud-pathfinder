@@ -1,5 +1,5 @@
 ---
-title: Zoom (Conference) :white_check_mark:
+title: Zoom (Conference)
 description: This is an overview of the tool Zoom, and its current status  within BC Gov.
 
 ---

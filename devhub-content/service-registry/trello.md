@@ -1,5 +1,5 @@
 ---
-title: Trello (Task Management) :white_check_mark:
+title: Trello (Task Management)
 description: This is an overview of the tool Trello, and its current status  within BC Gov.
 
 ---

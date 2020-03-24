@@ -1,5 +1,5 @@
 ---
-title: MS Teams (Conference) :white_check_mark:
+title: MS Teams (Conference)
 description: This is an overview of the tool MS Teams, and its current status  within BC Gov.
 
 ---

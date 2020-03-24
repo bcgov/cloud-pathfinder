@@ -1,5 +1,5 @@
 ---
-title: Mattermost (Chat) :white_check_mark:
+title: Mattermost (Chat)
 description: This is an overview of the tool Mattermost, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mattermost_logo_horizontal.svg/800px-Mattermost_logo_horizontal.svg.png
 ---
