@@ -1,10 +1,12 @@
 ---
-title: MS Teams (Conference)
+title: MS Teams (Conference) :white_check_mark:
 description: This is an overview of the tool MS Teams, and its current status  within BC Gov.
 
 ---
 
 # MS Teams (Conference)
+
+
 
 ## Description
 Microsoft Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration.

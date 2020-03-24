@@ -1,5 +1,5 @@
 ---
-title: Collaboration Tools
+title: Collaboration Tools 
 description: An overview of some online collaboration tools for BC Government teams working remotely and collaborating within and across organizations.
 resourceType: Documentation
 ---
@@ -18,5 +18,9 @@ Group/Team Chat tools provide a means for multiple users to communicate amongst 
 ### Conference
 Conference tools focus on real-time voice and video communication between individuals, teams, or in some cases, large groups of people.  Conference tools typically provide mechanisms for users to join sessions via desktop or mobile apps, as well as standard telephone lines.  Conference tools include screen sharing capabilities, and most have some form of chat functionality, although this is not as sophisticated as what is found in Group/Team Chat tools.  Conference tools generally require setting up a time slot for a session to occur, and tools also provide for inviting one or more users.  Conference tools may be integrated with calendaring functions in tools such as Microsoft Exchange.  Some conference tools provide for "webinar" functionality in which a large number of users may be able to view presentations/broadcast from one or more individuals and participate in a moderated fashion. Conference tools typically require participant to install a dedicated desktop or mobile application in order to use all functionality; most provide for audio-only via standard phone number without an app.
 
+### Collaboration
+...
+
+### Task Management
                
 

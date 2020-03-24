@@ -1,10 +1,12 @@
 ---
-title: Trello (Task Management)
+title: Trello (Task Management) :white_check_mark:
 description: This is an overview of the tool Trello, and its current status  within BC Gov.
 
 ---
 
 # Trello (Task Management)
+
+
 
 ## Description
 Trello lets you work more collaboratively and get more done. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.

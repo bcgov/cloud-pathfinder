@@ -1,5 +1,5 @@
 ---
-title: {{ tool.Name }} ({{ tool.Type }})
+title: {{ tool.Name }} ({{ tool.Type }}) :white_check_mark:
 description: This is an overview of the tool {{ tool.Name }}, and its current status  within BC Gov.
 {% if tool['Image URL']|length -%}
 image: {{ tool['Image URL'] }}
@@ -7,6 +7,10 @@ image: {{ tool['Image URL'] }}
 ---
 
 # {{ tool.Name }} ({{ tool.Type }})
+
+{% if tool['Image URL']|length -%}
+<img src="{{ tool['Image URL'] }}" alt="{{ tool.Name }}" width="150"/>
+{%- endif %}
 
 ## Description
 {{ tool.Description }}

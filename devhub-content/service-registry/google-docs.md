@@ -1,10 +1,12 @@
 ---
-title: Google Docs (Collaboration)
+title: Google Docs (Collaboration) :white_check_mark:
 description: This is an overview of the tool Google Docs, and its current status  within BC Gov.
 
 ---
 
 # Google Docs (Collaboration)
+
+
 
 ## Description
 Google Docs is a part of a comprehensive package of online applications offered by and associated with Google. Users of Google Docs can import, create, edit and update documents and spreadsheets in various fonts and file formats, combining text with formulas, lists, tables and images.

@@ -1,10 +1,12 @@
 ---
-title: Miro (Collaboration)
+title: Miro (Collaboration) :white_check_mark:
 description: This is an overview of the tool Miro, and its current status  within BC Gov.
 
 ---
 
 # Miro (Collaboration)
+
+
 
 ## Description
 Whether your teams are colocated, distributed, or fully remote, Miro provides an engaging, intuitive, in-person collaboration experience with multiple options for real-time or asynchronous teamwork on an online whiteboard.
