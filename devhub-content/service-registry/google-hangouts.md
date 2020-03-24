@@ -21,10 +21,9 @@ Meet face to face with coworkers and customers. Learn More! Save time. Collabora
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
 |Login Type | email address |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Not Reviewed  |
 |Active Users   |   |
 |Recommendation   |  Public/non-sensitive info only |

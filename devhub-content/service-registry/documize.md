@@ -21,10 +21,9 @@ Quick. Easy. Organized. Documize is the Knowledge Ops team you never had, collec
 |Cost/Spend   |   |
 |Hosting   | On-prem  |
 |Login Type | IDIR, GitHub ID |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Not Reviewed  |
 |Active Users   |   |
 |Recommendation   |  Developer Community Use |

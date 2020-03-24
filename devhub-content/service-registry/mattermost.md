@@ -21,10 +21,9 @@ DataBC
 |Cost/Spend   | 0  |
 |Hosting   | On-prem  |
 |Login Type | email address |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Yes  |
 |Active Users   |   |
 |Recommendation   |  Could use if you can host your own instance |

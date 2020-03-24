@@ -21,10 +21,9 @@ ZenHub is the leading project management platform built for software development
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
 |Login Type | gitHub ID |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Not Reviewed  |
 |Active Users   |   |
 |Recommendation   |  Public/non-sensitive info only |

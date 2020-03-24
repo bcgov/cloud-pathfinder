@@ -21,10 +21,9 @@ BC Government desktop standard enterprise unified communications offering
 |Cost/Spend   | Centralized OCIO  |
 |Hosting   | Cloud  |
 |Login Type | IDIR |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | Yes  |
-|Corporate STRA   | Yes   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | Yes   |
 |Acceptable Terms   | Yes  |
 |Active Users   |   |
 |Recommendation   |  Suitable for any collaboration/communication |

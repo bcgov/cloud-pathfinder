@@ -21,10 +21,9 @@ Chat channels for unlimited numbers of users that come from a variety of organiz
 |Cost/Spend   | 0  |
 |Hosting   | Cloud  |
 |Login Type | email address |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Yes*  |
 |Active Users   |   |
 |Recommendation   |  Free tier use is acceptible. Terms under negotiation |

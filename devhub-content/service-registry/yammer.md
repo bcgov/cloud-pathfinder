@@ -21,10 +21,9 @@ Office365 Bundled
 |Cost/Spend   | 0  |
 |Hosting   | Cloud  |
 |Login Type | IDIR |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Yes  |
 |Active Users   |   |
 |Recommendation   |  Public/non-sensitive info only |

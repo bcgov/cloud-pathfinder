@@ -21,10 +21,9 @@ Office365 Service Offering
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
 |Login Type | MS Active Directory |
-|Steward |  |
+|BC Gov Steward |  |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Under Review  |
 |Active Users   |   |
 |Recommendation   |  Public/non-sensitive info only |

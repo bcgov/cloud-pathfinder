@@ -21,10 +21,9 @@ Intended for DevOps teams
 |Cost/Spend   | 0  |
 |Hosting   | On-prem  |
 |Login Type | IDIR, GitHub ID |
-|Steward | todd.wilson@gov.bc.ca |
+|BC Gov Steward | todd.wilson@gov.bc.ca |
 |Corporate PIA   | No  |
-|Corporate STRA   | No   |
-|SOAR   | No  |
+|Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Yes  |
 |Active Users   | 1400  |
 |Recommendation   |  Developer Community Use |
