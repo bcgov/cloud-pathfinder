@@ -20,6 +20,8 @@ Google Docs is a part of a comprehensive package of online applications offered 
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

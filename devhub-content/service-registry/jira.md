@@ -20,6 +20,8 @@ Measure Performance, Report Effectively, & Get Insights. Start a Trial Today. Po
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

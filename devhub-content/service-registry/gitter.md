@@ -20,6 +20,8 @@ Gitter is a chat and networking platform that helps to manage, grow and connect 
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | GitHub ID |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

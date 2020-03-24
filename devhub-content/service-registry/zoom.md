@@ -20,6 +20,8 @@ Audio/Video and screen sharing involving users that come from a variety of organ
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

@@ -1,0 +1,34 @@
+{
+	"name": "Collaboration Tools",
+	"description": "Tools to support online collaboration and remote work.",
+	"sourceProperties": {
+		"sources": [
+			{
+				"sourceType": "github",
+				"sourceProperties": {
+					"url": "http://github.com/bcgov/cloud-pathfinder-technology-and-ux",
+					"owner": "bcgov",
+					"repo": "cloud-pathfinder-technology-and-ux",
+					"files": [
+						"devhub-content/service-registry/collaboration-tools-intro.md",
+					  	{%- for page in registry_contents['pages'] %}
+        					"{{ page }}"{{ "," if not loop.last }}
+					  	{% endfor -%}
+					]
+				}
+			}
+		]
+	},
+	"attributes": {
+		"labels": [
+			"Collaboration",
+			"Repository"
+		],
+		"personas": [
+			"Designer",
+			"Developer",
+			"Product Owner"
+		]
+	},
+	"resourceType": "Self-Service Tools"
+}

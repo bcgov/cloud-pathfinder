@@ -20,6 +20,8 @@ Easy Online Meetings with HD Video Conferencing. Get a GoToMeeting™ Free Trial
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

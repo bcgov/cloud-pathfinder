@@ -1,12 +1,12 @@
 ---
-title: BCGov Hosted Rocket.Chat (Chat)
-description: This is an overview of the tool BCGov Hosted Rocket.Chat, and its current status  within BC Gov.
+title: BC Gov Hosted Rocket.Chat (Chat)
+description: This is an overview of the tool BC Gov Hosted Rocket.Chat, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png
 ---
 
-# BCGov Hosted Rocket.Chat (Chat)
+# BC Gov Hosted Rocket.Chat (Chat)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png" alt="BCGov Hosted Rocket.Chat" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png" alt="BC Gov Hosted Rocket.Chat" width="150"/>
 
 ## Description
 Rocket.Chat is a Web Chat Server, developed in JavaScript, using the Meteor full stack framework. It is a great solution for communities and companies wanting to privately host their own chat service or for developers looking forward to build and evolve their own chat platforms.
@@ -14,12 +14,14 @@ Rocket.Chat is a Web Chat Server, developed in JavaScript, using the Meteor full
 ## Context
 Intended for DevOps teams
 
-##  Details for BCGov Hosted Rocket.Chat
+##  Details for BC Gov Hosted Rocket.Chat
 
 |   |   |
 |---|---|
 |Cost/Spend   | 0  |
 |Hosting   | On-prem  |
+|Login Type | IDIR, GitHub ID |
+|Steward | todd.wilson@gov.bc.ca |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

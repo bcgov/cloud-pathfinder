@@ -20,6 +20,8 @@ DataBC
 |---|---|
 |Cost/Spend   | 0  |
 |Hosting   | On-prem  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

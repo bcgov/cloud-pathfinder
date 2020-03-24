@@ -1,10 +1,10 @@
 ---
-title: MS Teams (Conference)
-description: This is an overview of the tool MS Teams, and its current status  within BC Gov.
+title: BC Gov MS Teams ()
+description: This is an overview of the tool BC Gov MS Teams, and its current status  within BC Gov.
 
 ---
 
-# MS Teams (Conference)
+# BC Gov MS Teams ()
 
 
 
@@ -14,12 +14,14 @@ Microsoft Teams is a unified communication and collaboration platform that combi
 ## Context
 Office365 Service Offering
 
-##  Details for MS Teams
+##  Details for BC Gov MS Teams
 
 |   |   |
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | MS Active Directory |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

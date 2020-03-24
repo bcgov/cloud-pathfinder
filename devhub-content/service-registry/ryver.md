@@ -20,6 +20,8 @@ Ryver provides a way to organize all your team collaboration in one app. You can
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

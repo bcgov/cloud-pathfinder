@@ -20,6 +20,8 @@ ZenHub is the leading project management platform built for software development
 |---|---|
 |Cost/Spend   |   |
 |Hosting   | Cloud  |
+|Login Type | gitHub ID |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |

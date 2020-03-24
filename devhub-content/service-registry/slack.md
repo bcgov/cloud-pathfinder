@@ -20,6 +20,8 @@ Chat channels for unlimited numbers of users that come from a variety of organiz
 |---|---|
 |Cost/Spend   | 0  |
 |Hosting   | Cloud  |
+|Login Type | email address |
+|Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA   | No   |
 |SOAR   | No  |
