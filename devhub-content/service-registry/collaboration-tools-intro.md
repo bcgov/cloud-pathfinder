@@ -21,8 +21,9 @@ Group/Team Chat tools provide a means for multiple users to communicate amongst 
 Conference tools focus on real-time voice and video communication between individuals, teams, or in some cases, large groups of people.  Conference tools typically provide mechanisms for users to join sessions via desktop or mobile apps, as well as standard telephone lines.  Conference tools include screen sharing capabilities, and most have some form of chat functionality, although this is not as sophisticated as what is found in Group/Team Chat tools.  Conference tools generally require setting up a time slot for a session to occur, and tools also provide for inviting one or more users.  Conference tools may be integrated with calendaring functions in tools such as Microsoft Exchange.  Some conference tools provide for "webinar" functionality in which a large number of users may be able to view presentations/broadcast from one or more individuals and participate in a moderated fashion. Conference tools typically require participant to install a dedicated desktop or mobile application in order to use all functionality; most provide for audio-only via standard phone number without an app.
 
 ### Collaboration
-...
+Collaboration tools help teams work together on shared documents or code, or to use virtual workspace elements such as whiteboards.    
 
 ### Task Management
+Task management tools help teams organize, track and visualize their collective work.  Most of these tools naturally support agile work methods such as Scrum or Kanban, but most are flexible enough to adapt to different work styles.  Some are as simple as virtual "sticky notes", while others are much more sophisticated and provide automated workflows, and integrate with other systems such time tracking, portfolio management, and content management applications.      
                
 

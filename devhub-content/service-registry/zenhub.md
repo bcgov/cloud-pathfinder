@@ -3,7 +3,9 @@ title: ZenHub (Task Management)
 description: This is an overview of the tool ZenHub, and its current status  within BC Gov.
 
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # ZenHub (Task Management)
 
 

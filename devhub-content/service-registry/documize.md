@@ -3,7 +3,9 @@ title: Documize (Collaboration)
 description: This is an overview of the tool Documize, and its current status  within BC Gov.
 
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # Documize (Collaboration)
 
 

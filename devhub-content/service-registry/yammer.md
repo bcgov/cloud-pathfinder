@@ -3,7 +3,9 @@ title: BC Gov Yammer (Forum)
 description: This is an overview of the tool BC Gov Yammer, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_Office_Yammer_%282018%E2%80%93present%29.svg
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # BC Gov Yammer (Forum)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_Office_Yammer_%282018%E2%80%93present%29.svg" alt="BC Gov Yammer" width="150"/>

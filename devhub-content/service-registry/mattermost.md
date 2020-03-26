@@ -3,7 +3,9 @@ title: Mattermost (Chat)
 description: This is an overview of the tool Mattermost, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mattermost_logo_horizontal.svg/800px-Mattermost_logo_horizontal.svg.png
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # Mattermost (Chat)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mattermost_logo_horizontal.svg/800px-Mattermost_logo_horizontal.svg.png" alt="Mattermost" width="150"/>

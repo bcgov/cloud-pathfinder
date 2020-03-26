@@ -3,7 +3,9 @@ title: Zoom (Conference)
 description: This is an overview of the tool Zoom, and its current status  within BC Gov.
 
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # Zoom (Conference)
 
 

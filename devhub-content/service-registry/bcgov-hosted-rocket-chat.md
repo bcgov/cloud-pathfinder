@@ -3,7 +3,9 @@ title: BC Gov Hosted Rocket.Chat (Chat)
 description: This is an overview of the tool BC Gov Hosted Rocket.Chat, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # BC Gov Hosted Rocket.Chat (Chat)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png" alt="BC Gov Hosted Rocket.Chat" width="150"/>

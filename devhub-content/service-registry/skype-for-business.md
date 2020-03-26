@@ -3,7 +3,9 @@ title: BC Gov Skype for Business (Conference)
 description: This is an overview of the tool BC Gov Skype for Business, and its current status  within BC Gov.
 image: https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Skype_for_Business_logo.png
 ---
-
+<!---
+Note: this is a generated file.  You should not edit it directly.  Please check https://github.com/bcgov/cloud-pathfinder-technology-and-ux for details.
+-->
 # BC Gov Skype for Business (Conference)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Skype_for_Business_logo.png" alt="BC Gov Skype for Business" width="150"/>
