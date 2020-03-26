@@ -22,11 +22,11 @@ BC Government desktop standard enterprise unified communications offering
 |---|---|
 |Cost/Spend   | Centralized OCIO  |
 |Hosting   | Cloud  |
-|Login Type | IDIR |
+|Login Type | IDIR, Guest Invite via email |
 |BC Gov Steward |  |
 |Corporate PIA   | Yes  |
 |Corporate STRA/SOAR   | Yes   |
 |Acceptable Terms   | Yes  |
-|Active Users   |   |
+|Active Users   | 15-30k  |
 |Recommendation   |  Suitable for any collaboration/communication |
-|URL   |   |
+|URL   | http://connect.gov.bc.ca/  |
