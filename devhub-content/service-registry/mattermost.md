@@ -22,11 +22,11 @@ DataBC
 |---|---|
 |Cost/Spend   | 0  |
 |Hosting   | On-prem  |
-|Login Type | email address |
+|Login Type | email address, IDIR with invitation |
 |BC Gov Steward |  |
 |Corporate PIA   | No  |
 |Corporate STRA/SOAR   | No   |
 |Acceptable Terms   | Yes  |
-|Active Users   |   |
+|Active Users   |  50-100 |
 |Recommendation   |  Could use if you can host your own instance |
-|URL   | https://mattermost.com/download/  |
+|URL   | https://chat.apps.gov.bc.ca/  |
