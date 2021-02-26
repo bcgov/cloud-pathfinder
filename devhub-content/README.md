@@ -1,7 +1,7 @@
 ---
 description: BC Gov Compliant Public Cloud.
 title: Cloud Pathfinder
-image: "https://raw.githubusercontent.com/bcgov/cloud-pathfinder/master/logos/cloud%20pathfinder%20team%20logo%20-%20logo%20only.png"
+image: https://i.imgur.com/XQR74Q3.png
 author: scayzer stuart.cayzer@gov.bc.ca
 ---
 ## Cloud Pathfinder
