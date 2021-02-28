@@ -19,4 +19,4 @@ The 'Milestone' description (created in ZenHub) should clearly list Sprint Goals
 Add any other context, attachments or screenshots
 
 **Definition of done**
-Identify what will need to happen/be delivered for this to be completely done
+Identify acceptance criteria for this to be completely done
