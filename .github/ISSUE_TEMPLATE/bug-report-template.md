@@ -2,7 +2,7 @@
 name: Cloud Pathfinder Bug Report Template
 about: General issues for the Cloud Pathfinder Project
 title: ''
-labels: 'Technology', 'bug'
+labels: 'bug'
 assignees: ''
 
 ---
